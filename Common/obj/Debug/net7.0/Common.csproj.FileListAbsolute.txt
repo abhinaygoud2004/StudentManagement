@@ -1,0 +1,12 @@
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/bin/Debug/net7.0/Common.deps.json
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/bin/Debug/net7.0/Common.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/bin/Debug/net7.0/Common.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/Common.csproj.AssemblyReference.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/Common.AssemblyInfoInputs.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/Common.AssemblyInfo.cs
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/Common.csproj.CoreCompileInputs.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/Common.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/refint/Common.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/Common.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/Common/obj/Debug/net7.0/ref/Common.dll

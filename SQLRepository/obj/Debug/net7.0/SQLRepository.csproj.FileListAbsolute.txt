@@ -1,0 +1,17 @@
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/bin/Debug/net7.0/SQLRepository.deps.json
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/bin/Debug/net7.0/SQLRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/bin/Debug/net7.0/SQLRepository.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/SQLRepository.csproj.AssemblyReference.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/SQLRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/SQLRepository.AssemblyInfoInputs.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/SQLRepository.AssemblyInfo.cs
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/SQLRepository.csproj.CoreCompileInputs.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/SQLRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/refint/SQLRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/SQLRepository.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/ref/SQLRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/bin/Debug/net7.0/StudentManagementRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/bin/Debug/net7.0/StudentManagementRepository.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/obj/Debug/net7.0/SQLRepository.csproj.CopyComplete
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/bin/Debug/net7.0/Common.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/SQLRepository/bin/Debug/net7.0/Common.pdb

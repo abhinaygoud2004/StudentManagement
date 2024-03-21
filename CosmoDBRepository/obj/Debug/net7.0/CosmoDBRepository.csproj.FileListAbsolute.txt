@@ -1,0 +1,17 @@
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/CosmoDBRepository.csproj.AssemblyReference.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/CosmoDBRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/CosmoDBRepository.AssemblyInfoInputs.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/CosmoDBRepository.AssemblyInfo.cs
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/CosmoDBRepository.csproj.CoreCompileInputs.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/bin/Debug/net7.0/CosmoDBRepository.deps.json
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/bin/Debug/net7.0/CosmoDBRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/bin/Debug/net7.0/CosmoDBRepository.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/bin/Debug/net7.0/StudentManagementRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/bin/Debug/net7.0/StudentManagementRepository.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/CosmoDBRepository.csproj.CopyComplete
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/CosmoDBRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/refint/CosmoDBRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/CosmoDBRepository.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/obj/Debug/net7.0/ref/CosmoDBRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/bin/Debug/net7.0/Common.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/CosmoDBRepository/bin/Debug/net7.0/Common.pdb

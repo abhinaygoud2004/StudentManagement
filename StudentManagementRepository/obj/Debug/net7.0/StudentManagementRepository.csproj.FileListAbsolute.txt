@@ -1,0 +1,15 @@
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/bin/Debug/net7.0/StudentManagementRepository.deps.json
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/bin/Debug/net7.0/StudentManagementRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/bin/Debug/net7.0/StudentManagementRepository.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/StudentManagementRepository.csproj.AssemblyReference.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/StudentManagementRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/StudentManagementRepository.AssemblyInfoInputs.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/StudentManagementRepository.AssemblyInfo.cs
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/StudentManagementRepository.csproj.CoreCompileInputs.cache
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/StudentManagementRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/refint/StudentManagementRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/StudentManagementRepository.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/ref/StudentManagementRepository.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/bin/Debug/net7.0/Common.dll
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/bin/Debug/net7.0/Common.pdb
+/Users/maturiabhinaygoud/Projects/StudentManagementAPI/StudentManagementRepository/obj/Debug/net7.0/StudentManagementRepository.csproj.CopyComplete
